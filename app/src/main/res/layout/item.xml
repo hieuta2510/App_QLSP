@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="230dp"
+    android:background="@drawable/bgitemdoes"
+    android:orientation="vertical"
+    android:layout_marginBottom="5dp"
+    android:layout_height="250dp">
+    <ImageView
+        android:id="@+id/imgit"
+        android:layout_marginLeft="17dp"
+        android:layout_width="160dp"
+        android:layout_height="130dp"
+        android:src="@drawable/ip13"/>
+
+        <TextView
+            android:id="@+id/tvNameit"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp"
+            android:textColor="#000C5D"
+            android:text="Iphone 11 pro max 128GB"
+            android:textStyle="bold"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tvPriceit"
+            android:textSize="16dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:background="@drawable/bgbuttonit"
+            android:text="16.990.000"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tvDesit"
+            android:layout_marginTop="5dp"
+            android:textColor="#000C5D"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apple A15 Bionic"/>
+
+
+</LinearLayout>

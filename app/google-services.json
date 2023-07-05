@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080789220680",
+    "project_id": "saleapp-1412e",
+    "storage_bucket": "saleapp-1412e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080789220680:android:f510963e3e00921a8b477d",
+        "android_client_info": {
+          "package_name": "edu.ptit.saleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080789220680-ipmt84d3pi6qdtpv2clpg9gf4ep9nb0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUFxUhYbW1fYcwfQyiRPXqpczssGb1go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080789220680-ipmt84d3pi6qdtpv2clpg9gf4ep9nb0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

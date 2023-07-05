@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">TMHS</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Mật Khẩu</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="forgot_password">Quên Mật Khẩu</string>
+    <string name="or">Hoặc</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">Chưa có tài khoản? Đăng kí</string>
+    <string name="Register">Đăng kí ngay</string>
+    <string name="Cancel">Huỷ</string>
+    <string name="navigation_drawer_open">Mở Menu</string>
+    <string name="navigation_drawer_close">Đóng Menu</string>
+
+    <string name="titleAddActivity">Thêm Sản Phẩm Mới</string>
+    <string name="tvNameAddAc">Tên Sản Phẩm</string>
+    <string name="etNameAddAc">Nhập tên sản phẩm</string>
+    <string name="tvPriceAddAc">Giá Sản Phẩm</string>
+    <string name="etPriceAddAc">Nhập giá sản phẩm</string>
+    <string name="tvCategoryAddAc">Chọn Thể Loại</string>
+    <string name="tvDesAddAc">Mô Tả</string>
+    <string name="etDesAddAc">Nhập mô tả sản phẩm</string>
+    <string name="tvPicAddAc">Chọn Ảnh</string>
+
+    <string name="tvTitleEditAc">Sửa Sản Phẩm</string>
+    <string name="tvNameEditAc">Tên Sản Phẩm</string>
+    <string name="etNameEditAc">Nhập tên sản phẩm</string>
+    <string name="tvPriceEditAc">Giá Sản Phẩm</string>
+    <string name="etPriceEditAc">Nhập giá sản phẩm</string>
+    <string name="tvCategoryEditAc">Chọn Thể Loại</string>
+    <string name="tvDesEditAc">Mô Tả</string>
+    <string name="etDesEditAc">Nhập mô tả sản phẩm</string>
+    <string name="tvPicEditAc">Chọn Ảnh</string>
+    <string name="btConfirm">Xác Nhận</string>
+    <string name="btDelete">Xoá</string>
+    <string name="btCancel">Huỷ</string>
+
+    <string name="tvTitEditProfile">Sửa Thông Tin Cá Nhân</string>
+    <string name="tvNameEditPro">Họ Và Tên</string>
+    <string name="etNameEditPro">Nhập họ và tên</string>
+    <string name="tvEmailEditPro">Email</string>
+    <string name="etEmailEditPro">Nhập email</string>
+    <string name="tvDOBEditPro">Ngày Sinh</string>
+    <string name="etDOBEditPro">Ngày tháng năm sinh</string>
+
+    <string name="tvTitShop">Chào Mừng Đến Với TMH</string>
+    <string name="tvTitLogin">Đăng Nhập</string>
+    <string name="tvAvailablePro">Sản phẩm hiện có</string>
+    <string name="tvRegister">Đăng Kí</string>
+    <string name="tvFullname">Họ Tên</string>
+    <string name="tvDateOfBirth">Ngày Sinh</string>
+    <string name="tvTittlSearch">Tìm Sản Phẩm</string>
+    <string name="etHintSearch">Nhập tên sản phẩm</string>
+    <string name="btSearch">Tìm Kiếm</string>
+    <string name="tvSelectCategory">Chọn Thể Loại</string>
+
+    <string name="tvChangePass">Đổi Mật Khẩu</string>
+    <string name="tvOldPass">Mật Khẩu Cũ</string>
+    <string name="etOldPass">Nhập mật khẩu cũ</string>
+    <string name="tvNewPass">Mật Khẩu Mới</string>
+    <string name="etNewPass">Nhập mật khẩu mới</string>
+    <string name="tvNewPass2">Xác Nhận</string>
+    <string name="etPassword2">Nhập lại mật khẩu mới</string>
+
+    <string name="tvTitProfile">Thông Tin Cá Nhân</string>
+    <string name="tvNameProfile">Họ Tên:</string>
+    <string name="tvEmailPro">Email:</string>
+    <string name="tvDOBPro">Ngày Sinh:</string>
+    <string name="btEdit">Sửa</string>
+    <string name="btBack">Quay Lại</string>
+
+    <string name="toastSuccess">Đăng nhập thành công</string>
+    <string name="toastError">Đăng nhập thất bại</string>
+    <string name="toastForgotPass">Đã gửi email cho bạn</string>
+    <string name="toastFillEmailForgot">Điền email của bạn</string>
+    <string name="hello">Xin chào, </string>
+    <string name="menu_search">Tìm sản phẩm </string>
+    <string name="menu_signout">Đăng xuất </string>
+    <string name="menu_profile">Thông tin cá nhân </string>
+    <string name="menu_changepassword">Đổi mật khẩu</string>
+    <string name="menu_history">Lịch sử</string>
+
+    <string name="toastRegisterSuccess">Đăng kí thành công</string>
+    <string name="toastRegisterFail">Đăng kí thất bại</string>
+    <string name="toastValidate">Tên không hợp lệ</string>
+    <string name="thongke">Tổng số lượng sản phẩm: </string>
+
+    <string name="history">Lịch sử </string>
+    <string name="add_product">Thêm sản phẩm mới:</string>
+    <string name="edit_product">Sửa sản phẩm:</string>
+    <string name="delete_product">Xoá sản phẩm:</string>
+
+    <string name="tb_delete_product">Xoá sản phẩm này</string>
+    <string name="mess_delete_product">Bạn có chắc xoá sản phẩm này?</string>
+    <string name="mess_delete_product_ok">Xoá sản phẩm thành công</string>
+
+    <string name="tb_edit_product">Sửa sản phẩm thành công</string>
+    <string name="error">Lỗi</string>
+    <string name="tb_url">Đã lưu URL</string>
+
+    <string name="miss_name">Thiếu tên sản phẩm</string>
+    <string name="miss_price">Thiếu giá sản phẩm</string>
+    <string name="miss_des">Thiếu mô tả sản phẩm</string>
+    <string name="miss_pic">Thiếu ảnh sản phẩm</string>
+
+    <string name="tb_add_product">Thêm sản phẩm thành công</string>
+    <string name="tb_add_product_no_ok">Không thể thêm sản phẩm</string>
+
+    <string-array name="spCategory">
+        <item>Điện thoại</item>
+        <item>Máy tính bảng</item>
+        <item>Laptop</item>
+    </string-array>
+
+    //English
+
+</resources>

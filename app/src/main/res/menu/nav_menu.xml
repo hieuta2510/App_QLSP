@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <item
+            android:id="@+id/nav_search"
+            android:title="@string/menu_search"
+            android:icon="@drawable/baseline_search"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/menu_signout"
+            android:icon="@drawable/ic_logout"/>
+        <item android:title="Your Infomation">
+            <menu>
+                <item
+                    android:id="@+id/nav_info"
+                    android:title="@string/menu_profile"
+                    android:icon="@drawable/profile"/>
+                <item
+                    android:id="@+id/nav_changPass"
+                    android:title="@string/menu_changepassword"
+                    android:icon="@drawable/ic_lock"/>
+            </menu>
+        </item>
+            <item
+                android:id="@+id/nav_history"
+                android:title="@string/menu_history"
+                android:icon="@drawable/ic_history"/>
+</menu>

@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">TMHS</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">Or</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="Register">Register Now</string>
+    <string name="Cancel">Cancel</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
+
+
+    <string name="titleAddActivity">Add New Product</string>
+    <string name="tvNameAddAc">Product Name</string>
+    <string name="etNameAddAc">Enter product name</string>
+    <string name="tvPriceAddAc">Product Price</string>
+    <string name="etPriceAddAc">Enter product price</string>
+    <string name="tvCategoryAddAc">Select Category</string>
+    <string name="tvDesAddAc">Enter Description</string>
+    <string name="etDesAddAc">Description</string>
+    <string name="tvPicAddAc">Select Picture</string>
+
+    <string name="tvTitleEditAc">Edit Product</string>
+    <string name="tvNameEditAc">Product Name</string>
+    <string name="etNameEditAc">Enter product name</string>
+    <string name="tvPriceEditAc">Product Price</string>
+    <string name="etPriceEditAc">Enter product price</string>
+    <string name="tvCategoryEditAc">Select Category</string>
+    <string name="tvDesEditAc">Description</string>
+    <string name="etDesEditAc">Enter description</string>
+    <string name="tvPicEditAc">Select Picture</string>
+    <string name="btConfirm">Confirm</string>
+    <string name="btDelete">Delete</string>
+    <string name="btCancel">Cancel</string>
+
+
+    <string name="tvTitEditProfile">Edit Profile</string>
+    <string name="tvNameEditPro">Full Name</string>
+    <string name="etNameEditPro">Enter your fullname</string>
+    <string name="tvEmailEditPro">Email</string>
+    <string name="etEmailEditPro">Enter your email</string>
+    <string name="tvDOBEditPro">Date of Birth</string>
+    <string name="etDOBEditPro">Date of birth</string>
+
+
+    <string name="tvTitShop">Welcome to TMH Shop</string>
+    <string name="tvTitLogin">Login</string>
+    <string name="tvAvailablePro">Available Product</string>
+    <string name="tvRegister">Register</string>
+    <string name="tvFullname">Fullname</string>
+    <string name="tvDateOfBirth">Date of Birth</string>
+    <string name="tvTittlSearch">Search Product</string>
+    <string name="etHintSearch">Enter product name</string>
+    <string name="btSearch">Search</string>
+    <string name="tvSelectCategory">Select Category</string>
+
+    <string name="tvChangePass">Change Password</string>
+    <string name="tvOldPass">Old Password</string>
+    <string name="etOldPass">Enter old password</string>
+    <string name="tvNewPass">New Password</string>
+    <string name="etNewPass">Enter new password</string>
+    <string name="tvNewPass2">Confirm Password</string>
+    <string name="etPassword2">Confirm new password</string>
+
+    <string name="tvTitProfile">Profile</string>
+    <string name="tvNameProfile">Fullname:</string>
+    <string name="tvEmailPro">Email:</string>
+    <string name="tvDOBPro">Date of Birth:</string>
+    <string name="btEdit">Edit</string>
+    <string name="btBack">Back</string>
+
+    <string name="toastSuccess">Login Successfully</string>
+    <string name="toastError">Login Failed</string>
+    <string name="toastForgotPass">Sent email to you</string>
+    <string name="toastFillEmailForgot">Please, enter your email</string>
+    <string name="hello">Hello, </string>
+    <string name="menu_search">Search product </string>
+    <string name="menu_signout">Sign out </string>
+    <string name="menu_profile">Profile </string>
+    <string name="menu_changepassword">Change password</string>
+    <string name="menu_history">History</string>
+
+    <string name="toastRegisterSuccess">Register Successfully</string>
+    <string name="toastRegisterFail">Register Failed</string>
+    <string name="toastValidate">Invalide Name</string>
+    <string name="thongke">Total numbers of products: </string>
+
+    <string name="history">History</string>
+    <string name="add_product">Add new product:</string>
+    <string name="edit_product">Edit product:</string>
+    <string name="delete_product">Delete product:</string>
+
+
+    <string name="tb_delete_product">Delete product?</string>
+    <string name="mess_delete_product">Are you sure to delete this product?</string>
+    <string name="mess_delete_product_ok">Delete product successfully</string>
+
+    <string name="tb_edit_product">Edit product successfully</string>
+    <string name="error">Error</string>
+    <string name="tb_url">Saved URL</string>
+
+    <string name="miss_name">Missing product name</string>
+    <string name="miss_price">Missing product price</string>
+    <string name="miss_des">Missing product description</string>
+    <string name="miss_pic">Missing product picture</string>
+
+    <string name="tb_add_product">Add product successfully</string>
+    <string name="tb_add_product_no_ok">Cannot add product </string>
+
+
+    <string-array name="spCategory">
+        <item>Điện thoại</item>
+        <item>Máy tính bảng</item>
+        <item>Laptop</item>
+    </string-array>
+
+    //English
+
+
+</resources>
